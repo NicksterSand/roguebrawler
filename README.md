@@ -1,2 +1,2 @@
 # roguebrawler
-roguelite side-scrolling beat-em-up
+To play the game, open the exe file in the Build folder
